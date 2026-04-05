@@ -3,7 +3,7 @@ Real-world security assessment reports conducted by Mofic Koudmani.
 
 ## Web Application Security Assessment (2026)
 
-**Scope:** Black-box web application assessment of powertrainparts.us
+**Scope:** Black-box web application assessment of a live e-commerce website
 
 **Findings:** 6 vulnerabilities across High, Medium, and Low severity
 
